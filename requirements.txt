@@ -5,6 +5,7 @@ scikit-learn
 
 # Modeling
 tensorflow-macos
+tensorflow-metal
 xgboost
 
 # RAG / NLP System
